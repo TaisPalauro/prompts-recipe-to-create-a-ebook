@@ -53,7 +53,7 @@ Leonardo.AI：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardo.Ai
 
 ## 📚 Materiais
 
@@ -62,9 +62,9 @@ Leonardo.AI：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilizei os prompts descritos acima para gerar o material base e finalizei a diagramação do documento no PowerPoint.
 
-## 👨‍💻 Expert
+## 👨‍💻 Professor
 
 <p>
     <img 
@@ -89,4 +89,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Editado por [Tais Palauro]
