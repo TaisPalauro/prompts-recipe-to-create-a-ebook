@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo.AI](https://app.leonardo.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,8 +40,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de Saúde e Bem-Estar, o ebook é do nicho de autoajuda e o subnicho é de bem-estar emocional, o título deve ser épico e curto, e tenha uma temática mais afetuosa, me cite 5 variações de títulos.                                      |
+| conteúdo | Faça um texto para ebook, com foco em saúde e bem-estar, estratégias para nutrir a mente, o corpo e o espírito. {REGRAS} Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga exemplo em contextos reais. Sempre deixe um título sugestivo por tópico.   |
 
 
 Midjourney：
