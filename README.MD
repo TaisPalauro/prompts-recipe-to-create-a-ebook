@@ -44,11 +44,11 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook, com foco em saúde e bem-estar, estratégias para nutrir a mente, o corpo e o espírito. {REGRAS} Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga exemplo em contextos reais. Sempre deixe um título sugestivo por tópico.   |
 
 
-Midjourney：
+Leonardo.AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A peaceful, inspiring landscape with a glowing sunrise over green hills, a calm river, and a solitary tree symbolizing strength and resilience. Subtle abstract patterns blend into the background, evoking balance and inner peace. A peaceful, inspiring landscape with a glowing sunrise over green hills, a calm river, and a solitary tree symbolizing strength and resilience. Subtle abstract patterns blend into the background, evoking balance and inner peace. Art style: Renaissance Art style: Renaissance. |
 
 ## ✨ Features
 
